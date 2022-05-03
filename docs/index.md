@@ -1,5 +1,5 @@
 ## Books Notes
-[Learning Web Desing](docs/books/learning_web_design.md)
+[Learning Web Design](https://ylruiz.github.io/fullstack_training/docs/books/learning_web_design.md)
 
 ## Courses 
 [Coursera courses](https://ylruiz.github.io/coursera/)
